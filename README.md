@@ -1,6 +1,6 @@
 # Brain-Tumor-Classification
 
-This project implements a Convolutional Neural Network (CNN) to classify brain MRI images into categories (e.g., tumor vs. no tumor). It’s built with Python, TensorFlow/Keras, and can be trained and evaluated on custom datasets.
+This project implements a Convolutional Neural Network (CNN) to classify brain MRI images into categories (e.g., tumor vs. no tumor). It’s built with Python, TensorFlow/Keras, and can be trained and evaluated on custom datasets. Gradio is used to build an interactive web interface where users can upload MRI scans and instantly see the model’s predictions.
 
 # Dataset 
 
